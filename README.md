@@ -70,7 +70,7 @@ This is a drawing I made on photoshop:
 
 `notice my signature on the image`
 
-Finally, we have a section link to My Edits(#My Edits)
+Finally, we have a section link to [My Edits](#My Edits)
 
 
 
