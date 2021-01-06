@@ -1,5 +1,5 @@
 Ivan's User Page
-My Favorite Programming Language: C++
+Favorite Programming Language: C++
 
 ## Welcome to GitHub Pages
 
