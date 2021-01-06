@@ -52,4 +52,15 @@ The following is a quote
 
 You can use `pwd` on Linux to see your **current** working directory.
 
+I will now go from A-C in an ordered list:
+
+1. A
+2. B
+3. C
+
+```
+To Do tasks:
+[x] Add Stylized Text
+[ ] Figure Out How To Add An Image
+```
 
